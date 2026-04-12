@@ -1,4 +1,7 @@
-## Hi there 👋
+## 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Coral+Pixels&size=37&pause=1000&color=010303&center=true&vCenter=true&width=500&lines=NotKxr0mi" alt="Typing SVG" /></a>
+
+Hi there 👋
 
 <!--
 **notKxr0mi/notKxr0mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
