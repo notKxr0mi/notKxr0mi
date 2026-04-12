@@ -1,7 +1,7 @@
 ## 
 
 <p align="center">
-  <img src="https://github.com/notKxr0mi/notKxr0mi/blob/4f9ac7ba9c77669bdb8d83c2d4f55b31c2ec5499/8bitgalaxyblack.jpg?raw=true" alt="image alt" />
+  <img src="https://raw.githubusercontent.com/notKxr0mi/notKxr0mi/33bee3e4b53a8f61eda1d6a15a26f6b0fcf27996/8bitlongspace.png" alt="8bit space" />
 </p>
 
 <p align="center">
