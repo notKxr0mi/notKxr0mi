@@ -16,19 +16,14 @@
   <img src="https://raw.githubusercontent.com/notKxr0mi/notKxr0mi/fbc3a2d9ad54d725649291e28b36ae368a5d5eff/Kxr0mi%20About%20ME.png" alt="About Me" />
 </p>
 
-Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=40&letterSpacing=30%25&pause=1000&color=F87FB9&center=true&vCenter=true&width=500&lines=%E2%8B%86%CB%9A%E2%98%86%CB%96%C2%B0%E2%8B%86%EF%BD%A1%C2%B0+%E2%9C%AE%CB%96+%E0%A3%AA+%E2%8A%B9%E2%8B%86.%CB%9A" alt="Typing SVG" /></a> 
+  <br>
+ <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=35&letterSpacing=30%25&pause=1000&color=F87FB9&center=true&vCenter=true&repeat=false&width=500&lines=CONNECT+WITH+ME" alt="Typing SVG" />
+  </a>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=40&letterSpacing=30%25&pause=1000&color=F87FB9&center=true&vCenter=true&width=500&lines=%E2%8B%86%CB%9A%E2%98%86%CB%96%C2%B0%E2%8B%86%EF%BD%A1%C2%B0+%E2%9C%AE%CB%96+%E0%A3%AA+%E2%8A%B9%E2%8B%86.%CB%9A" alt="Typing SVG" />
+</p>
 
-<!--
-**notKxr0mi/notKxr0mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
