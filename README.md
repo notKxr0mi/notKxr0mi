@@ -1,5 +1,7 @@
 ## 
 
+![image alt](https://github.com/notKxr0mi/notKxr0mi/blob/64bb6c3e517254c6832ff4cd6a8998019f1cad33/8bitgalaxyblack.jpg)
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=55&letterSpacing=20%25&pause=1000&color=FFFFFF&background=9242FF00&center=true&vCenter=true&width=500&lines=NotKxr0mi" alt="Typing SVG" />
