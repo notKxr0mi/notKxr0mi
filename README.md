@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/notKxr0mi/notKxr0mi/62e1afc1ed12da73213ab46c928b3c72e0f2b344/Kxr0mi%20About%20ME.png" alt="About Me" />
+  <img src="https://raw.githubusercontent.com/notKxr0mi/notKxr0mi/fbc3a2d9ad54d725649291e28b36ae368a5d5eff/Kxr0mi%20About%20ME.png" alt="About Me" />
 </p>
 
 Hi there 👋
