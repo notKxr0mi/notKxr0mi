@@ -1,6 +1,8 @@
 ## 
 
-![image alt](https://github.com/notKxr0mi/notKxr0mi/blob/64bb6c3e517254c6832ff4cd6a8998019f1cad33/8bitgalaxyblack.jpg)
+<p align="center">
+  <img src="https://github.com/notKxr0mi/notKxr0mi/blob/4f9ac7ba9c77669bdb8d83c2d4f55b31c2ec5499/8bitgalaxyblack.jpg?raw=true" alt="image alt" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
