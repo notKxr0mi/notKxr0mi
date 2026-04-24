@@ -17,22 +17,13 @@
   <img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/bash_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/cisco-000000?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/ElasticSearch-000000?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/VirusTotal-000000?style=for-the-badge&logo=virustotal&logoColor=white" />
   <img src="https://img.shields.io/badge/ANY.RUN-000000?style=for-the-badge" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge" />
