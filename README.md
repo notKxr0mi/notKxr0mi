@@ -20,16 +20,23 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-ff69b4?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-ff69b4?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-ff69b4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/cisco-ff69b4?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/splunk-ff69b4?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-ff69b4?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/ElasticSearch-ff69b4?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/cisco-ff69b4?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/splunk-ff69b4?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-ff69b4?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VirusTotal-ff69b4?style=for-the-badge&logo=virustotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/ANY.RUN-ff69b4?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp%20Suite-ff69b4?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-ff69b4?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metasploit-ff69b4?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -40,11 +47,10 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=40&letterSpacing=30%25&pause=1000&color=F87FB9&center=true&vCenter=true&width=500&lines=%E2%8B%86%CB%9A%E2%98%86%CB%96%C2%B0%E2%8B%86%EF%BD%A1%C2%B0+%E2%9C%AE%CB%96+%E0%A3%AA+%E2%8A%B9%E2%8B%86.%CB%9A" alt="Typing SVG" /></a> 
-  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notKxr0mi&theme=omni&show_icons=true" alt="GitHub stats" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=notKxr0mi&show_icons=true&bg_color=000000&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&border_color=ff69b4" />
+</p>
 
 <!--  <br>
  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=35&letterSpacing=30%25&pause=1000&color=F87FB9&center=true&vCenter=true&repeat=false&width=500&lines=CONNECT+WITH+ME" alt="Typing SVG" />
