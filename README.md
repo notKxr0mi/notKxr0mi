@@ -13,6 +13,26 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/python-ff69b4?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-ff69b4?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/bash_script-ff69b4?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-ff69b4?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-ff69b4?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-ff69b4?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-ff69b4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElasticSearch-ff69b4?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/cisco-ff69b4?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/splunk-ff69b4?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-ff69b4?style=for-the-badge&logo=Canva&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/notKxr0mi/notKxr0mi/8184bbb4167c2b6941bfbcde7c8dce94a4228594/Kxr0mi%20About%20ME.png" />
 </p>
 
@@ -25,7 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=notKxr0mi&theme=omni&show_icons=true" alt="GitHub stats" />
 </p>
 
-  
+
 <!--  <br>
  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=35&letterSpacing=30%25&pause=1000&color=F87FB9&center=true&vCenter=true&repeat=false&width=500&lines=CONNECT+WITH+ME" alt="Typing SVG" />
   </a>
